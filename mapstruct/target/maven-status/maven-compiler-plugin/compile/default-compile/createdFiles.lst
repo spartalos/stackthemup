@@ -1,0 +1,6 @@
+hu\stackthemup\model\dto\CarDto.class
+hu\stackthemup\model\mapper\CarMapper.class
+hu\stackthemup\model\Car.class
+hu\stackthemup\model\enums\CarType.class
+hu\stackthemup\Main.class
+hu\stackthemup\model\Car$CarBuilder.class
